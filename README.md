@@ -74,7 +74,7 @@ $ ./rnaseq_aligner.sh
 <font face = "Times New Roman" size = 4> ***Try running traceTNE***</font>
 
 ```shell
-# All bigWig files require to be moved to one folder [ ProjectName(FolderName) ].
+# All bigWig files require to be moved to one folder [ProjectName(FolderName)].
 $ traceTNE.sh
     -B /path/to/blocklist.bed
     -S /path/to/(hg38.chrom.sizes or hg19.chrom.sizes or ...)
