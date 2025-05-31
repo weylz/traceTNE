@@ -21,7 +21,7 @@
 3. R library - fitdistrplus;
 4. Python 3.12 or later;
 5. BEDTools suite 2.30.0;
-6. Jim Kent's executable programms: http://hgdownload.cse.ucsc.edu/admin/exe/.
+6. Jim Kent's executable programs: http://hgdownload.cse.ucsc.edu/admin/exe/.
 </font>
 
 
