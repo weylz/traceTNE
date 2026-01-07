@@ -27,6 +27,12 @@
 
 ## Usage
 
+<font face = "Times New Roman" size = 4> ***To use online*** </font>
+
+```
+https://www.seubioinfo.cn/tneatlas/toolkit_traceTNE/
+```
+
 <font face = "Times New Roman" size = 4> ***Deploy this program locally*** </font>
 
 ```shell
