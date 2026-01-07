@@ -30,7 +30,7 @@
 <font face = "Times New Roman" size = 4> ***To use online*** </font>
 
 ```
-[https://www.seubioinfo.cn/tneatlas/toolkit_traceTNE/](https://www.seubioinfo.cn/tneatlas/toolkit_traceTNE/)
+https://www.seubioinfo.cn/tneatlas/toolkit_traceTNE/
 ```
 
 <font face = "Times New Roman" size = 4> ***Deploy this program locally*** </font>
@@ -98,6 +98,6 @@ $ traceTNE.sh
 
 
 ## Citation
-<font face = "Times New Roman" size = 3> [Wenyong Zhu et al. TNEAtlas: a pan-cancer atlas for the comprehensive identification and systematic analysis of transcribed non-coding elements. *Under Review*. Watch this space!](./)</font>
+<font face = "Times New Roman" size = 3> [Wenyong Zhu et al. TNEAtlas: a pan-cancer atlas for the comprehensive identification and systematic analysis of transcribed non-coding elements. *Under Review*. Watch this space!](https://www.seubioinfo.cn/tneatlas)</font>
 
 <font face = "Times New Roman" size = 2> ***Copyright © 2025 Wenyong Zhu et al. All Rights Reserved.*** </font>
