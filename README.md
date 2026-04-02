@@ -100,4 +100,4 @@ $ traceTNE.sh
 ## Citation
 <font face = "Times New Roman" size = 3> [Wenyong Zhu et al. TNEAtlas: a pan-cancer atlas for the comprehensive identification and systematic analysis of transcribed non-coding elements. *Under Review*. Watch this space!](https://www.seubioinfo.cn/tneatlas)</font>
 
-<font face = "Times New Roman" size = 2> ***Copyright © 2025 Wenyong Zhu et al. All Rights Reserved.*** </font>
+<font face = "Times New Roman" size = 2> ***Copyright © Wenyong Zhu et al. All Rights Reserved.*** </font>
